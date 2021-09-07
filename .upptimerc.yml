@@ -4,24 +4,26 @@ repo: site-monitor # The name of this repository
 
 sites:
   - name: Monkee-Boy
-    url: https://www.monkee-boy.com
+    url: https://www.monkee-boy.com/
   - name: The Story of Texas
     url: https://www.thestoryoftexas.com/
+  - name: ABC Home and Commercial
+    url: https://www.abchomeandcommercial.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /site-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/6999936
   name: Site Monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Monkee-Boy** Site Monitoring"
+  introMessage: Monitoring uptime for a variety of Monkee-Boy sites, projects, and servers.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: monkee-boy.com
+      href: https://www.monkee-boy.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
