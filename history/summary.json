@@ -1,7 +1,7 @@
 [
   {
     "name": "Monkee-Boy",
-    "url": "https://www.monkee-boy.com",
+    "url": "https://www.monkee-boy.com/",
     "icon": "https://favicons.githubusercontent.com/www.monkee-boy.com",
     "slug": "monkee-boy",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "time": 439,
+    "timeDay": 439,
+    "timeWeek": 439,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "ABC Home and Commercial",
+    "url": "https://www.abchomeandcommercial.com/",
+    "icon": "https://favicons.githubusercontent.com/www.abchomeandcommercial.com",
+    "slug": "abc-home-and-commercial",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1423,
+    "timeDay": 1423,
+    "timeWeek": 1423,
+    "timeMonth": 1423,
+    "timeYear": 1423,
     "dailyMinutesDown": {}
   }
 ]
