@@ -4,9 +4,9 @@
     "url": "https://www.monkee-boy.com/",
     "icon": "https://favicons.githubusercontent.com/www.monkee-boy.com",
     "slug": "monkee-boy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 397,
     "timeMonth": 400,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "The Story of Texas",
