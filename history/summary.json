@@ -76,19 +76,19 @@
     "url": "http://habitat-search.monkee-boy.com:9090/",
     "icon": "https://favicons.githubusercontent.com/habitat-search.monkee-boy.com",
     "slug": "habitat-search",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 788,
-    "timeWeek": 255,
-    "timeMonth": 695,
-    "timeYear": 431,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 429,
+    "timeDay": 497,
+    "timeWeek": 249,
+    "timeMonth": 680,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2022-01-18": 0
+      "2022-01-18": 28
     }
   }
 ]
