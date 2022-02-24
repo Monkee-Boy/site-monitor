@@ -58,19 +58,19 @@
     "url": "https://campgladiator.com/",
     "icon": "https://favicons.githubusercontent.com/campgladiator.com",
     "slug": "camp-gladiator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 527,
-    "timeWeek": 417,
-    "timeMonth": 423,
-    "timeYear": 428,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 427,
+    "timeDay": 420,
+    "timeWeek": 394,
+    "timeMonth": 416,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 14
     }
   },
   {
