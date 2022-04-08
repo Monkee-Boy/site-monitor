@@ -4,18 +4,20 @@
     "url": "https://www.monkee-boy.com/",
     "icon": "https://favicons.githubusercontent.com/www.monkee-boy.com",
     "slug": "monkee-boy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 360,
-    "timeWeek": 349,
-    "timeMonth": 365,
-    "timeYear": 466,
-    "dailyMinutesDown": {}
+    "time": 465,
+    "timeDay": 304,
+    "timeWeek": 337,
+    "timeMonth": 362,
+    "timeYear": 465,
+    "dailyMinutesDown": {
+      "2022-04-08": 0
+    }
   },
   {
     "name": "The Story of Texas",
@@ -82,12 +84,12 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
     "time": 553,
     "timeDay": 1789,
     "timeWeek": 1038,
-    "timeMonth": 872,
+    "timeMonth": 891,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2022-03-29": 27,
