@@ -9,8 +9,6 @@ sites:
     url: https://www.thestoryoftexas.com/
   - name: ABC Home and Commercial
     url: https://www.abchomeandcommercial.com/
-  - name: Camp Gladiator
-    url: https://campgladiator.com/
   - name: Habitat Search
     url: http://habitat-search.monkee-boy.com:9090/
 
